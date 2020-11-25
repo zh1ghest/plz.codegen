@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"bytes"
 )
 
 var Int = reflect.TypeOf(int(0))
